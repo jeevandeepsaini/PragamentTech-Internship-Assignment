@@ -34,7 +34,7 @@ Android Resume App – An interactive Android application that fetches resume da
 
 ## 📸 Screenshots
 
-<!-- <img src="https://github.com/jeevandeepsaini/PragamentTech-Internship-Assignment/blob/main/CustomResumeGen.jpg" alt="App Screenshot" width="250"/> -->
+<img src="https://github.com/jeevandeepsaini/PragamentTech-Internship-Assignment/blob/main/App%20Screenshot.png" alt="App Screenshot" width="250"/>
 
 ## 🚀 How to Run
 
